@@ -1,0 +1,9 @@
+jumanji
+jax
+jaxlib
+matplotlib
+numpy
+optax
+time
+functools
+flax
