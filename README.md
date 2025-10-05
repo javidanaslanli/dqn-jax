@@ -1,8 +1,13 @@
 # 🧩 JAX DQN on Jumanji's Game2048-v1
 
-This repository showcases a **Deep Q-Network (DQN)** implementation built with **JAX**, trained on the [`Game2048-v1`](https://github.com/instadeepai/jumanji/tree/main/jumanji/environments/logic/game_2048) environment from the **Jumanji** suite.
+This repository demonstrates a **Deep Q-Network (DQN)** agent implemented entirely in **JAX**, trained on the [`Game2048-v1`](https://github.com/instadeepai/jumanji/tree/main/jumanji/environments/logic/game_2048) environment from **Jumanji**.
 
-The project demonstrates how to train reinforcement learning agents efficiently in a **fully JIT-compiled**, **vectorized**, and **reproducible** setup using modern JAX tools.
+The project highlights how to combine:
+- 🧠 **Jumanji** for clean, JIT-compatible environments  
+- ⚡ **JAX** for high-performance functional ML  
+- 💾 **Flashbax** for efficient, device-friendly replay buffers  
+
+All together, this forms a lightweight and elegant reinforcement learning pipeline.
 
 ---
 
