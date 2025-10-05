@@ -6,3 +6,10 @@ The project demonstrates how to train reinforcement learning agents efficiently 
 
 ---
 
+## 🚀 Highlights
+
+- 🧠 **DQN implementation in JAX** — fully differentiable and JIT-compiled  
+- 🎮 **Jumanji’s Game2048-v1** — a clean, RL-compatible 2048 environment  
+- ⚡ **Fast & reproducible** — powered by JAX transformations (`jit`, `vmap`)  
+
+---
